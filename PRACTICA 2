@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>PRACTICA 2</title>
+  </head>
+  <body>
+    <section>
+    <h1>Jose Manuel Sierra Garcia </h1>
+    </section>
+    <section>
+        <div> Edad: 16</div>
+        <div> Telefono: 5575263667</div>
+        <div> Carrera: Soy profesional tecnico bachiller en informatica</div>
+    </section>
+    <section>
+        <ul>
+            <li>Me gusta mi trabajo actual</li>
+            <li>Me gusta el basquet</li>
+            <li>Me gusta escuchar musica salsa y cumbia en especial</li>
+        </ul>
+    </section> 
+  </body>
