@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Yo</title>
+</head>
+    <body>
+        <h1><b> Jose Sierra </b></h1>
+        <p>Descripcion</p>
+        <spam> me gusta ir al gimansio</spam>
+        <h2>pasatiempos </h2>
+        <ul>
+            <li>ir al gimnasio</li>
+            <li>>Comer</li>
+            <li>jugar basquet</li>
+        </ul>
+        <h3><b>Soy del Conalep, me gusta ir al gym</b></h3>
+    </body>
+</html>
